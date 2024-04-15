@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning C# .NET
 - 💞️ I’m looking to collaborate on coding for beginners
 - 📫 How to reach me dabrinson05@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I don't do fun facts
 
 <!---
 CodeIsMyJam33/CodeIsMyJam33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
